@@ -1,0 +1,6 @@
+{
+    "name": "hcloud: Command-line interface for Hetzner Cloud",
+    "id": "hcloud",
+    "version": "1.0.0",
+    "description": "Installs the hcloud cli application to use with hetzner cloud service."
+}
